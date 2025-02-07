@@ -1,0 +1,5 @@
+Karty po wymianie ♣ 9, ♠ J, ♦ K, ♣ K, ♠ 9.
+Karty Komputer 1: ♥ 9, ♣ 4, ♠ D, ♠ 8, ♠ A. Układ: Brak układu.
+Karty Komputer 2: ♣ 2, ♠ 4, ♦ 2, ♠ 2, ♦ D. Układ: Trójka.
+Karty Komputer 3: ♥ A, ♣ 3, ♥ 10, ♦ J, ♣ 8. Układ: Brak układu.
+Wygrał Komputer 2 z układem Trójka! Gratulacje!
